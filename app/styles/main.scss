@@ -10,7 +10,7 @@ $grey-light: #252525 !default;
     padding: 0.2em 0;
 }
 body {
-    background: url(/images/woodDark.png) repeat scroll;
+    background: #220801;
 }
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
@@ -82,7 +82,6 @@ body {
     margin: -9px 10px -9px 0px;
 }
 .navbar-brand {
-    font-family: "Blokletters Viltstift";
     color: #fff;
 }
 @media screen and (max-width: 768px) {
